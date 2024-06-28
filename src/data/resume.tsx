@@ -1,11 +1,11 @@
 import { Icons } from "@/components/icons";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  name: "Eunice Yu-Tyng Chang",
+  initials: "EYC",
+  url: "https://www.linkedin.com/in/changyutyng/",
+  location: "Taipei, Taiwan",
+  locationLink: "https://www.google.com/maps/place/taipei",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
